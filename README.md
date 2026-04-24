@@ -1,6 +1,6 @@
 # Capstone 20.1 — TCGA-GBM 12-Month Survival Prediction
 
-**Research question.** 
+**Research question:** 
 
 In adults with newly-diagnosed glioblastoma, can clinical and molecular features available at diagnosis predict whether a patient will survive at least twelve months, and which features drive that prediction?
 
